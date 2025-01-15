@@ -12,8 +12,8 @@ Hi there, I'm **Rodrigo Costa**, a **QA Automation Engineer** from Brazil :brazi
 
  <div>
   <a href="https://github.com/ralves20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ralves20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralves20&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=therodrigocosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therodrigocosta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### ⚡ Main Skills:
